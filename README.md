@@ -11,8 +11,6 @@ Withought further ado, time to get hands dirty.
 
 ## Study Notes
 | Topic     | Notes Link        |  Reference  | 
-| ------------- |:-------------:| :-----:| :-----:|
-| Machine Learning System Design | [My Notes] | [educative.io](https://www.educative.io/courses/machine-learning-system-design/qAqBDXZvpP2) by Khang Pham| 
-
-
+| :------------- |:-------------| :-----| 
+| Machine Learning System Design | [My Notes](https://github.com/stellapeng/ACE-Data-Scientice/blob/main/Machine%20Learning%20System%20Design/ML%20system%20design%20notes.md) | [educative.io](https://www.educative.io/courses/machine-learning-system-design/qAqBDXZvpP2) by Khang Pham| 
 
