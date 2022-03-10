@@ -9,4 +9,10 @@ To practice the principle of "learn enough", I will get hands-on projects while 
 
 Withought further ado, time to get hands dirty.
 
-## Machine Learning System Design
+## Study Notes
+| Topic     | Notes Link        |  Reference  | 
+| ------------- |:-------------:| :-----:| :-----:|
+| Machine Learning System Design | [My Notes] | [educative.io](https://www.educative.io/courses/machine-learning-system-design/qAqBDXZvpP2) by Khang Pham| 
+
+
+
