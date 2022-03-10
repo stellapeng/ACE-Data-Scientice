@@ -7,6 +7,6 @@ I will share my study notes here, the topics range across fundamental summary, M
 To practice the principle of "learn enough", I will get hands-on projects while learning, theoritical studying will be revisited regularly through industrial project solving. 
 
 
-Withought further ado, let's do it.
+Withought further ado, time to get hands dirty.
 
 ## Machine Learning System Design
